@@ -10,6 +10,9 @@ http://www.slideshare.net/slidarko/gremlin-a-graphbased-programming-language-387
 http://www.slideshare.net/slidarko/memoirs-of-a-graph-addict-despair-to-redemption
 http://jim.webber.name/2011/02/23/abe72f61-27fb-4c1b-8ce1-d0db7583497b.aspx (Scaling Neo4j with Cache Sharding and Neo4j HA)
 
+#JSON
+http://wiki.fasterxml.com/JacksonInFiveMinutes (not read, magnificient json processing framework for java)
+
 #Scala
 http://www.infoq.com/articles/scala-java-myths-facts (not read)
 
@@ -17,7 +20,7 @@ http://www.infoq.com/articles/scala-java-myths-facts (not read)
 http://www.infoq.com/presentations/Horizontal-Scalability (not watched)
 
 #Security
-http://www.infoq.com/articles/apache-shiro
+http://www.infoq.com/articles/apache-shiro (not read)
 
 
 
