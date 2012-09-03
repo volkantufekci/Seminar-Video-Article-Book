@@ -2,10 +2,13 @@
 http://www.infoq.com/presentations/Testing-Testing-iOS (not watched)
 
 #Graph
-http://www.infoq.com/presentations/Graph-Database-Power-Web-of-Things (not watched)
-http://www.infoq.com/presentations/Challenge-Connected-Data Jim Webber, an introductory one. Talks about when you 
+* Graph-Database-Power-Web-of-Things (not watched) http://www.infoq.com/presentations/Graph-Database-Power-Web-of-Things
+* Challenge-Connected-Data(20120823): Jim Webber, an introductory one. Talks about when you 
 should use neo4j and when you shouldn't. Noticable example: Do not sketch a graph for an email model such as 
-"Jim->emailed->Alex". Do it like "Jim->sent->Email->To->Alex"
+"Jim->emailed->Alex". Do it like "Jim->sent->Email->To->Alex" 
+http://www.infoq.com/presentations/Challenge-Connected-Data
+* Cypher(20120902): M Hunger, one of the developers of neo4j explains Cypher => http://vimeo.com/48603403 
+* High Availability with Neo4j(20120903) => http://vimeo.com/43797268
 
 #HTML5
 http://www.infoq.com/presentations/Mobile-HTML5-Maximiliano-Firtman talks about self 
