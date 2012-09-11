@@ -32,3 +32,8 @@ Notes:
 1-http://blog.apigee.com/detail/building_a_mobile_data_platform_with_cassandra_-_apigee_under_the_hood/? A discussion 
 of the technologies behind the scenes of apigee is explained. Two useful tool that they use: Jackson for JSON, Apache 
 Shiro for security.
+
+#Mobile
+1- Testing Mobile Apps - Infoq: Julian Harty - Senior Test Engineer in Google for 4 years- talks for starategies and
+tools for both ios and android. Sikuli, Calabash and Zucchini Framework is mentioned. 
+http://www.infoq.com/presentations/Testing-Mobile-Apps
