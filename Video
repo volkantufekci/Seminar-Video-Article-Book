@@ -28,6 +28,9 @@ Notes:
 * Building the Agile Database by Larry Burns
 2- MVP http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html
 
+#API
+1- http://blog.apigee.com/detail/bringing_the_app_economy_to_enterprise_it_video_slides(10/2012)
+
 #BAAS
 1-http://blog.apigee.com/detail/building_a_mobile_data_platform_with_cassandra_-_apigee_under_the_hood/? A discussion 
 of the technologies behind the scenes of apigee is explained. Two useful tool that they use: Jackson for JSON, Apache 
